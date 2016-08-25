@@ -1,0 +1,11 @@
+Monopoly Simulation Results 
+Player1
+Dice:	8	7	7	4	7	2	6	10	10	8	7	7	
+Properties:	Connecticut Avenue	St. James Place	Indiana Avenue	Ventnor Avenue	Pennsylvania Avenue	Electric Company	Park Place	
+Remaining Money:	300
+Player2
+Dice:	7	7	5	10	5	9	11	5	6	10	3	8	
+Properties:	Vermont Avenue	Pennsylvania Railroad	Short Line	Atlantic Avenue	Boardwalk	
+Remaining Money:	740
+
+

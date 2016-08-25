@@ -1,0 +1,56 @@
+Monopoly Simulation Results 
+Player1
+Dice:	10	8	7	10	7	10	8	4	10	9	
+Properties:	St. Charles Place	New York Avenue	Atlantic Avenue	Baltic Avenue	States Avenue	B. & O. Railroad	Short Line	
+Remaining Money:	700
+Player2
+Dice:	5	8	7	5	6	8	7	8	8	4	5	5	9	
+Properties:	Oriental Avenue	Virginia Avenue	Kentucky Avenue	North Carolina Avenue	Pennsylvania Railroad	Indiana Avenue	Ventnor Avenue	
+Remaining Money:	440
+Player1
+Dice:	9	10	8	12	3	6	8	8	5	7	3	10	
+Properties:	Water Works	Baltic Avenue	Connecticut Avenue	B. & O. Railroad	Park Place	
+Remaining Money:	1020
+Player2
+Dice:	6	11	8	7	7	10	11	5	7	3	10	
+Properties:	Tennessee Avenue	Atlantic Avenue	Kentucky Avenue	Oriental Avenue	
+Remaining Money:	1140
+Player1
+Dice:	8	7	8	8	5	6	9	7	7	9	8	
+Properties:	Connecticut Avenue	St. James Place	Illinois Avenue	North Carolina Avenue	Park Place	Baltic Avenue	Electric Company	New York Avenue	
+Remaining Money:	300
+Player2
+Dice:	5	10	8	6	9	11	7	3	10	7	7	
+Properties:	Oriental Avenue	Boardwalk	
+Remaining Money:	1400
+
+Player1
+Dice:	3	6	4	7	11	7	6	4	9	7	8	6	4	
+Properties:	Virginia Avenue	North Carolina Avenue	Boardwalk	Connecticut Avenue	B. & O. Railroad	
+Remaining Money:	720
+Player2
+Dice:	11	9	8	7	9	7	6	8	4	6	7	
+Properties:	Electric Company	Kentucky Avenue	Marvin Gardens	Reading Railroad	Tennessee Avenue	Atlantic Avenue	Baltic Avenue	
+Remaining Money:	530
+
+
+Player1
+Dice:	10	7	3	7	11	10	4	5	5	9	8	7	
+Properties:	St. Charles Place	Tennessee Avenue	Kentucky Avenue	Water Works	Boardwalk	Connecticut Avenue	States Avenue	Indiana Avenue	
+Remaining Money:	330
+Player2
+Dice:	3	4	10	6	12	7	7	6	8	10	6	5	
+Properties:	Vermont Avenue	Illinois Avenue	Baltic Avenue	St. James Place	Pennsylvania Avenue	Reading Railroad	
+Remaining Money:	800
+
+
+Player1
+Dice:	7	3	8	8	4	9	5	8	7	6	4	4	6	6	
+Properties:	Vermont Avenue	St. Charles Place	New York Avenue	Ventnor Avenue	Pacific Avenue	Reading Railroad	States Avenue	Pennsylvania Avenue	Oriental Avenue	
+Remaining Money:	140
+Player2
+Dice:	11	10	7	6	5	8	7	11	9	4	6	
+Properties:	Electric Company	Marvin Gardens	Short Line	Pennsylvania Railroad	Atlantic Avenue	Boardwalk	
+Remaining Money:	390
+
+
